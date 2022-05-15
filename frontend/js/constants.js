@@ -1,9 +1,9 @@
 const contractAddress = "0xE7D69ABBbDD9eE3F90dE92CCC17454FE88C361D2"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Gwei Goths NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Gwei Goths NFT Project is a decentralised Ethereum and L2 Verifier Node and scaling risk investment protocol where each Goth represents a profit share in the verifier node and investment operations';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
