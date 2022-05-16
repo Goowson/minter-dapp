@@ -1,7 +1,7 @@
 const contractAddress = "0xE7D69ABBbDD9eE3F90dE92CCC17454FE88C361D2"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Gwei Goths NFT Project!!";
+const welcome_h1 = "Welcome to the Gwei Goths NFT Project!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Gwei Goths NFT Project is a decentralised Ethereum and L2 Verifier Node and scaling risk investment protocol where each Goth represents a profit share in the verifier node and investment operations';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
