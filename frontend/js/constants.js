@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Gwei Goths NFT Project!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Gwei Goths NFT Project is a decentralised Ethereum and L2 Verifier Node and scaling risk investment protocol where each Goth represents a profit share in the verifier node and investment operations';
+const welcome_p = 'The Gwei Goths are an NFT Investment project where each Goth represents a share of the investment funds profits. Goths will also get exclusive whitelist access to the NFT Apparel Seed round and participate in partner Airdrops on Polygon and Metis Chains! 80% of the initial Mint fees will go to an investment fund which will be used to invest and compound for 1 year. At the end of one year, the whole investment fund including Profits will be liquidated and distributed Pro-rata to all Gwei Goths holders! The fund will also provide exposure to the NFT Apparel Seed round by investing a portion of the investment fund there.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
